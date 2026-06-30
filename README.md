@@ -1,2 +1,2 @@
 # TaskManager-Room-CRUD
-Aplicación móvil nativa desarrollada en Kotlin utilizando Jetpack Compose y Room Database para la gestión local de tareas (CRUD) bajo la arquitectura MVVM.
+Este es un proyecto de gestión de tareas desarrollado para Android que utiliza Jetpack Compose para construir una interfaz de usuario declarativa y moderna. La persistencia de datos local se implementa mediante Room Database (SQLite), permitiendo realizar operaciones CRUD completas (Crear, Leer, Actualizar y Eliminar). La estructura del código sigue el patrón de arquitectura MVVM con ViewModel y StateFlow para asegurar una separación limpia de responsabilidades y un flujo de datos reactivo.
